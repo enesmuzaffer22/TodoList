@@ -74,7 +74,7 @@ function Todos(props) {
                             value={input}
                             onChange={(e) => setInput(e.target.value)}
                             type='text'
-                            placeholder='Add Todo'
+                            placeholder='Todo ekle'
                         />
                         <button>
                             <AiOutlinePlus size={30} />
