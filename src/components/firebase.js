@@ -8,13 +8,7 @@ import { getAuth, signInWithCredential, GoogleAuthProvider } from "firebase/auth
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyC2IDA1fvK2fExGUW5NdFav9vK8tS14UnY",
-  authDomain: "todo-5deba.firebaseapp.com",
-  projectId: "todo-5deba",
-  storageBucket: "todo-5deba.appspot.com",
-  messagingSenderId: "1021175569529",
-  appId: "1:1021175569529:web:52fb1d22f22c17697cc8a8",
-  measurementId: "G-6H9PRHDP09"
+  //CONFIG-LINES
 };
 
 // Initialize Firebase
